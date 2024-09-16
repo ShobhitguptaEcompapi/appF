@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49669401521",
+    "project_id": "bullyproof-project",
+    "storage_bucket": "bullyproof-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49669401521:android:b8f163e6b5e89c86baab90",
+        "android_client_info": {
+          "package_name": "bullyproof.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtMLsqpKCvWI2uGw817M5TWqTyGnLUR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
